@@ -1,4 +1,6 @@
-<img width="948" height="494" alt="image" src="https://github.com/user-attachments/assets/afc84d0a-7eda-4a0e-8855-a3e9652985a1" /><div align="center">
+<img width="948" height="494" alt="image" src="https://github.com/user-attachments/assets/afc84d0a-7eda-4a0e-8855-a3e9652985a1" />
+
+<div align="center">
 
 # Max Augusto
 
@@ -99,14 +101,14 @@
 
 ## 📈 &nbsp;GitHub Statistics
 
-<p align="center">
+<div align="center">
 	<img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Max Augusto GitHub Stats" />
 	<img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Max-Augusto&theme=tokyonight&hide_border=true&background=0D1117" alt="Max Augusto GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 	<img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
