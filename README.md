@@ -59,7 +59,7 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 
 ---
 
-### 🚀 Production Highlights
+### 🚀 Featured Production Highlights
 
 * 🚚 **[Betim Express](https://www.betimexpress.com.br)** — Full-featured logistics management SaaS in production.
   * Real-time net profit and driver commission computation engine.
