@@ -1,5 +1,3 @@
-<img width="948" height="494" alt="image" src="https://github.com/user-attachments/assets/afc84d0a-7eda-4a0e-8855-a3e9652985a1" />
-
 <div align="center">
 
 # Max Augusto
