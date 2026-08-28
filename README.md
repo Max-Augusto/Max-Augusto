@@ -1,4 +1,4 @@
-<img width="948" height="494" alt="image" src="https://github.com/user-attachments/assets/afc84d0a-7eda-4a0e-8855-a3e9652985a1" /><div align="center">
+<div align="center">
 
 # Max Augusto
 
@@ -23,15 +23,15 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<p>👋 &nbsp;Hi! I'm <strong>Max Augusto</strong>, an IT Support & Infrastructure Analyst and Backend Developer based in Betim, MG, Brazil[cite: 1].</p>
+<p>👋 &nbsp;Hi! I'm <strong>Max Augusto</strong>, an IT Support & Infrastructure Analyst and Backend Developer based in Betim, MG, Brazil.</p>
 
-<p>⚡ &nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend systems</strong>[cite: 1].</p>
+<p>⚡ &nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend systems</strong>.</p>
 
-<p>🚀 &nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics management SaaS running live with Python, Django, PostgreSQL, CI/CD, and Mercado Pago recurring payments[cite: 1].</p>
+<p>🚀 &nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics management SaaS running live with Python, Django, PostgreSQL, CI/CD, and Mercado Pago recurring payments.</p>
 
-<p>🏢 &nbsp;Currently working at <strong>Positivo S+</strong> delivering critical IT infrastructure support for aviation operations, with prior experience supporting distributed municipal environments[cite: 1].</p>
+<p>🏢 &nbsp;Currently working at <strong>Positivo S+</strong> delivering critical IT infrastructure support for aviation operations, with prior experience supporting distributed municipal environments.</p>
 
-<p>🎓 &nbsp;Undergraduate in Information Systems at <strong>PUC Minas</strong> (2024 – 2027)[cite: 1].</p>
+<p>🎓 &nbsp;Undergraduate in Information Systems at <strong>PUC Minas</strong> (2024 – 2027).</p>
 
 <br>
 
@@ -83,11 +83,11 @@
 
 ## 🌟 &nbsp;Featured Production Projects & Architecture
 
-* 🚚 **[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))[cite: 1]
-  * Full-featured logistics management SaaS in active production[cite: 1].
-  * Real-time net profit and driver commission computation engine[cite: 1].
-  * Transparent checkout and recurring subscription webhooks via Mercado Pago[cite: 1].
-  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration)[cite: 1].
+* 🚚 **[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))
+  * Full-featured logistics management SaaS in active production.
+  * Real-time net profit and driver commission computation engine.
+  * Transparent checkout and recurring subscription webhooks via Mercado Pago.
+  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration).
 * 🌿 **ONG Conecta Platform**
   * Sustainable collaborative platform built with .NET 10 Web API, React, TypeScript, PostgreSQL, and Docker Compose.
 * ⚡ **Dynamic QR Code Microservice**
@@ -100,12 +100,12 @@
 ## 📈 &nbsp;GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Max Augusto GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Max-Augusto&theme=tokyonight&hide_border=true&background=0D1117" alt="Max Augusto GitHub Streak" />
+  <img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Max Augusto GitHub Stats" />
+  <img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="52%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Max-Augusto&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Max Augusto Activity Graph" />
 </p>
 
 ---
@@ -125,87 +125,19 @@
 **🐱 My GitHub Data** 
 
 > 📦 4.0 kB Used in GitHub's Storage 
- > 
+> 
 > 🏆 24 Contributions in the Year 2026
- > 
+> 
 > 🚫 Not Opted to Hire
- > 
+> 
 > 📜 8 Public Repositories 
- > 
+> 
 > 🔑 4 Private Repositories 
- > 
+> 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                77 commits          ██████████░░░░░░░░░░░░░░░   41.62 % 
 🌆 Daytime                56 commits          ████████░░░░░░░░░░░░░░░░░   30.27 % 
 🌃 Evening                52 commits          ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Wednesday                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Friday                   84 commits          ███████████░░░░░░░░░░░░░░   45.41 % 
-Saturday                 45 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
- Last Updated on 28/08/2026 14:15:57 UTC
-<!--END_SECTION:waka-->
-
----
-
-## 🤝 &nbsp;Let's Connect!
-
-- 💬 Discussing backend architecture, Python/Django, .NET Web APIs, and database performance.
-- 🖧 Enterprise LAN networking, infrastructure operations, and Linux administration[cite: 1].
-- 🚀 Cloud deployment, Dockerization, and automated workflows.
-
-<br>
-
-<p align="center">
-  📫 <strong>Reach out:</strong> <a href="mailto:maxaugusto6474@gmail.com">maxaugusto6474@gmail.com</a> | <a href="https://www.linkedin.com/in/max-augusto-226530255">LinkedIn Profile</a>[cite: 1]
-</p>
-
-<div align="center">
-
-<sub>Max Augusto · Betim, MG, Brazil</sub>
-
-</div>
+🌙 Night                  0 commits            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
