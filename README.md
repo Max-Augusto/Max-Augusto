@@ -1,4 +1,4 @@
-<div align="center">
+<img width="948" height="494" alt="image" src="https://github.com/user-attachments/assets/afc84d0a-7eda-4a0e-8855-a3e9652985a1" /><div align="center">
 
 # Max Augusto
 
@@ -100,8 +100,8 @@
 ## 📈 &nbsp;GitHub Statistics
 
 <p align="center">
-  <img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Max Augusto GitHub Stats" />
-  <img width="48.5%" src="https://streak-stats.demolab.com?user=Max-Augusto&theme=tokyonight&hide_border=true&border_radius=5" alt="Max Augusto GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Max Augusto GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats-five.vercel.app?user=Max-Augusto&theme=tokyonight&hide_border=true&background=0D1117" alt="Max Augusto GitHub Streak" />
 </p>
 
 <p align="center">
