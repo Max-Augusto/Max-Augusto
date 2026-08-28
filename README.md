@@ -104,10 +104,10 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Max Augusto GitHub Stats" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Max Augusto GitHub Stats" />
 </td>
 <td align="center" width="50%">
-<img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Max-Augusto&theme=tokyonight&hide_border=true&background=0D1117" alt="Max Augusto GitHub Streak" />
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Max-Augusto&theme=tokyonight&hide_border=true&background=0D1117" alt="Max Augusto GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -115,7 +115,7 @@
 <hr>
 
 <div align="center">
-	<img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+	<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
