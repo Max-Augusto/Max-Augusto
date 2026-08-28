@@ -23,15 +23,15 @@
 
 ## &nbsp;About Me
 
-<p>&nbsp;Hi! I'm <strong>Max Augusto</strong>, an IT Support & Infrastructure Analyst and Backend Developer based in Betim, MG, Brazil[cite: 1].</p>
+<p>&nbsp;Hi! I'm <strong>Max Augusto</strong>, an IT Support & Infrastructure Analyst and Backend Developer based in Betim, MG, Brazil.</p>
 
-<p>&nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend systems</strong>[cite: 1].</p>
+<p>&nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend systems</strong>.</p>
 
-<p>&nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics management SaaS running live with Python, Django, PostgreSQL, CI/CD, and Mercado Pago recurring payments[cite: 1].</p>
+<p>&nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics management SaaS running live with Python, Django, PostgreSQL, CI/CD, and Mercado Pago recurring payments.</p>
 
-<p>&nbsp;Currently working at <strong>Positivo S+</strong> delivering critical IT infrastructure support for aviation operations, with prior experience supporting distributed municipal environments[cite: 1].</p>
+<p>&nbsp;Currently working at <strong>Positivo S+</strong> delivering critical IT infrastructure support for aviation operations, with prior experience supporting distributed municipal environments.</p>
 
-<p>&nbsp;Undergraduate in Information Systems at <strong>PUC Minas</strong> (2024 – 2027)[cite: 1].</p>
+<p>&nbsp;Undergraduate in Information Systems at <strong>PUC Minas</strong> (2024 – 2027).</p>
 
 <br>
 
@@ -83,11 +83,11 @@
 
 ## &nbsp;Featured Production Projects & Architecture
 
-* &nbsp;**[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))[cite: 1]
-  * Full-featured logistics management SaaS in active production[cite: 1].
-  * Real-time net profit and driver commission computation engine[cite: 1].
-  * Transparent checkout and recurring subscription webhooks via Mercado Pago[cite: 1].
-  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration)[cite: 1].
+* &nbsp;**[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))
+  * Full-featured logistics management SaaS in active production.
+  * Real-time net profit and driver commission computation engine.
+  * Transparent checkout and recurring subscription webhooks via Mercado Pago.
+  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration).
 * &nbsp;**ONG Conecta Platform**
   * Sustainable collaborative platform built with .NET 10 Web API, React, TypeScript, PostgreSQL, and Docker Compose.
 * &nbsp;**Dynamic QR Code Microservice**
@@ -207,13 +207,13 @@ CSS                      1 repo              ██─────────�
 ## &nbsp;Let's Connect!
 
 - &nbsp;Discussing backend architecture, Python/Django, .NET Web APIs, and database performance.
-- &nbsp;Enterprise LAN networking, infrastructure operations, and Linux administration[cite: 1].
+- &nbsp;Enterprise LAN networking, infrastructure operations, and Linux administration.
 - &nbsp;Cloud deployment, Dockerization, and automated workflows.
 
 <br>
 
 <p align="center">
-  <strong>Reach out:</strong> <a href="mailto:maxaugusto6474@gmail.com">maxaugusto6474@gmail.com</a> | <a href="https://www.linkedin.com/in/max-augusto-226530255">LinkedIn Profile</a>[cite: 1]
+  <strong>Reach out:</strong> <a href="mailto:maxaugusto6474@gmail.com">maxaugusto6474@gmail.com</a> | <a href="https://www.linkedin.com/in/max-augusto-226530255">LinkedIn Profile</a>
 </p>
 
 <div align="center">
