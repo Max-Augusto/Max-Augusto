@@ -118,26 +118,24 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+<!--END_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.01%20thousand%20lines%20of%20code-blue?style=flat)
+---
 
-**🐱 My GitHub Data** 
+## 🤝 &nbsp;Let's Connect!
 
-> 📦 4.0 kB Used in GitHub's Storage 
-> 
-> 🏆 24 Contributions in the Year 2026
-> 
-> 🚫 Not Opted to Hire
-> 
-> 📜 8 Public Repositories 
-> 
-> 🔑 4 Private Repositories 
-> 
-**I'm an Early 🐤** 
+- 💬 Discussing backend architecture, Python/Django, .NET Web APIs, and database performance.
+- 🖧 Enterprise LAN networking, infrastructure operations, and Linux administration.
+- 🚀 Cloud deployment, Dockerization, and automated workflows.
 
-```text
-🌞 Morning                77 commits          ██████████░░░░░░░░░░░░░░░   41.62 % 
-🌆 Daytime                56 commits          ████████░░░░░░░░░░░░░░░░░   30.27 % 
-🌃 Evening                52 commits          ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  0 commits            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+<br>
+
+<p align="center">
+  📫 <strong>Reach out:</strong> <a href="mailto:maxaugusto6474@gmail.com">maxaugusto6474@gmail.com</a> | <a href="https://www.linkedin.com/in/max-augusto-226530255">LinkedIn Profile</a>
+</p>
+
+<div align="center">
+
+<sub>Max Augusto · Betim, MG, Brazil</sub>
+
+</div>
