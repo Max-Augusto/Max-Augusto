@@ -25,7 +25,7 @@
 
 <p>👋 &nbsp;Hi! I'm <strong>Max Augusto</strong>, an IT Support & Infrastructure Analyst and Backend Developer based in Betim, MG, Brazil[cite: 1].</p>
 
-<p>⚡ &nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend architectures</strong>[cite: 1].</p>
+<p>⚡ &nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend systems</strong>[cite: 1].</p>
 
 <p>🚀 &nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics management SaaS running live with Python, Django, PostgreSQL, CI/CD, and Mercado Pago recurring payments[cite: 1].</p>
 
@@ -97,6 +97,15 @@
 
 ---
 
+## 📈 &nbsp;GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Max Augusto GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Max-Augusto&theme=tokyonight" alt="Max Augusto GitHub Streak" />
+</p>
+
+---
+
 ## 🐍 &nbsp;Activity
 
 <div align="center">
@@ -106,18 +115,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## 📈 &nbsp;GitHub Analytics & Metrics
-
-<div align="center">
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="48%" />
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages by Repo" width="48%" />
-  <br>
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="48%" />
-</div>
 
 ---
 
