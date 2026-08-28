@@ -59,29 +59,36 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 
 ---
 
-### 🚀 Featured Production Highlights
+### 🚀 Featured Projects & Architecture
 
 * 🚚 **[Betim Express](https://www.betimexpress.com.br)** — Full-featured logistics management SaaS in production.
   * Real-time net profit and driver commission computation engine.
   * Recurring subscription webhooks and transparent checkout via Mercado Pago.
   * Deployed on Railway with managed PostgreSQL, CI/CD pipelines, and SPF/DKIM DNS deliverability.
+* 🌿 **ONG Conecta Platform** — Sustainable platform API built with .NET 10 Web API, React, PostgreSQL, and Docker Compose.
+* ⚡ **Dynamic QR Code Redirection Engine** — High-performance URL routing and redirection microservice built with Python and FastAPI.
+* 💳 **Bank Statement Converter SaaS** — PDF transaction extractor and parsing engine with OpenAI API, Clerk auth, and Stripe integration.
 
 ---
 
 ### 🐍 Activity
 
-![Contribution Snake (Dark)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution Snake (Light)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" />
+  <img src="https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" />
+</div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
+<br>
 
 <div align="center">
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages" />
+  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="48%" />
+  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages by Repo" width="48%" />
+  <br>
+  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
+  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="48%" />
 </div>
+
+<br>
 
 <div align="center">
 
