@@ -99,13 +99,14 @@
 
 ## 📈 &nbsp;GitHub Statistics
 
-<div align="center">
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Max Augusto GitHub Stats" width="48%" />
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages by Repo" width="48%" />
-  <br>
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.azurewebsites.net/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Max Augusto GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Max-Augusto&theme=tokyonight" alt="Max Augusto GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.azurewebsites.net/api/wakatime?username=Max-Augusto&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
+</p>
 
 ---
 
