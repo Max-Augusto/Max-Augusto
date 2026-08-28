@@ -2,9 +2,9 @@
 
 # Max Augusto
 
-**IT Support & Infrastructure · Backend Developer · Systems**
+**IT Support & Infrastructure · Backend Developer · Systems Architecture**
 
-*Bridging enterprise infrastructure, N2 support, and scalable software architecture.*
+*Bridging enterprise infrastructure, N2 operations, and scalable software architecture.*
 
 <br>
 
@@ -17,13 +17,13 @@
 
 <br>
 
-Information Systems undergraduate at PUC Minas and IT Analyst experienced in enterprise support (N2), critical airport operations, and LAN networking. In parallel with enterprise infrastructure, I design and maintain software products end-to-end, including architecting and deploying [Betim Express](https://www.betimexpress.com.br) — a live production SaaS for logistics management built with Python, Django, PostgreSQL, and automated CI/CD.
+Information Systems undergraduate at PUC Minas and IT Analyst experienced in enterprise support (N2), critical airport operations, and LAN networking[cite: 1]. In parallel with enterprise infrastructure, I design and maintain software products end-to-end, including architecting and deploying [Betim Express](https://www.betimexpress.com.br) — a live production SaaS for logistics management built with Python, Django, PostgreSQL, and automated CI/CD[cite: 1].
 
 <br>
 
 ---
 
-### 💻 Backend & Development
+### 💻 Backend & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -32,7 +32,7 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
 
-### 🖧 Infrastructure & Networking
+### 🖧 Enterprise Infrastructure & Networking
 
 ![LAN](https://img.shields.io/badge/LAN_Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS_(SPF%2FDKIM)-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -41,7 +41,7 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL_V4-4682B4?style=flat-square&logo=servicenow&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### 🚀 CI/CD, Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
@@ -57,17 +57,27 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago_API-009EE3?style=flat-square&logo=mercadopago&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend_Email-000000?style=flat-square&logo=resend&logoColor=white)
 
+### 🔒 Security & Governance
+
+![Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Identity](https://img.shields.io/badge/Identity_&_Access-Auth0%20%7C%20Clerk-635BFF?style=flat-square&logo=auth0&logoColor=white)
+![Environment](https://img.shields.io/badge/Secrets_Management-.env%20%7C%20Vault-43B02A?style=flat-square&logo=dotenv&logoColor=white)
+
 ---
 
-### 🚀 Featured Projects & Architecture
+### 🚀 Featured Production Projects & Architecture
 
-* 🚚 **[Betim Express](https://www.betimexpress.com.br)** — Full-featured logistics management SaaS in production.
-  * Real-time net profit and driver commission computation engine.
-  * Recurring subscription webhooks and transparent checkout via Mercado Pago.
-  * Deployed on Railway with managed PostgreSQL, CI/CD pipelines, and SPF/DKIM DNS deliverability.
-* 🌿 **ONG Conecta Platform** — Sustainable platform API built with .NET 10 Web API, React, PostgreSQL, and Docker Compose.
-* ⚡ **Dynamic QR Code Redirection Engine** — High-performance URL routing and redirection microservice built with Python and FastAPI.
-* 💳 **Bank Statement Converter SaaS** — PDF transaction extractor and parsing engine with OpenAI API, Clerk auth, and Stripe integration.
+* 🚚 **[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))[cite: 1]
+  * Full-featured logistics management SaaS in active production[cite: 1].
+  * Real-time net profit and driver commission computation engine[cite: 1].
+  * Transparent checkout and recurring subscription webhooks via Mercado Pago[cite: 1].
+  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration)[cite: 1].
+* 🌿 **ONG Conecta Platform**
+  * Sustainable collaborative platform built with .NET 10 Web API, React, TypeScript, PostgreSQL, and Docker Compose.
+* ⚡ **Dynamic QR Code Microservice**
+  * High-performance URL routing, QR generation, and redirection engine built with Python and FastAPI.
+* 💳 **Bank Statement Converter SaaS**
+  * Automated financial transaction parser using OpenAI API, PostgreSQL, Clerk authentication, and Stripe monetization.
 
 ---
 
@@ -81,6 +91,14 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Contributions-Year_2026-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend_&_Infrastructure-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=flat-square" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="48%" />
   <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages by Repo" width="48%" />
   <br>
@@ -89,6 +107,8 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 </div>
 
 <br>
+
+---
 
 <div align="center">
 
