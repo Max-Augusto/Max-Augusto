@@ -10,6 +10,8 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+      
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -28,3 +30,14 @@ jobs:
           SYMBOL_VERSION: 1
           CUSTOM_PAD: 18
           LOCALE: en
+      
+      - name: Replace chart symbols (░ → ─)
+        run: sed -i 's/░/─/g' README.md
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "chore: update waka stats with custom chart symbols" || true
+          git push
