@@ -70,9 +70,10 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 
 ### 📊 GitHub Activity & Metrics
 
+### 📊 GitHub Activity & Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Max-Augusto&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Max Augusto GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Max Augusto Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Augusto&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Max Augusto GitHub Streak" />
 </p>
 
 <br>
