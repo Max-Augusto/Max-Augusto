@@ -1,25 +1,27 @@
-name: Waka Readme Stats
+name: GitHub Profile Summary Cards
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    name: Generate GitHub Cards
     steps:
       - uses: actions/checkout@v4
-      - uses: anmol098/waka-readme-stats@master
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        name: Generate Summary Cards
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_PROFILE_VIEWS: "false"
-          SHOW_SHORT_INFO: "true"
-          SHOW_COMMIT: "true"
-          SHOW_DAYS_OF_WEEK: "true"
-          SHOW_LANGUAGE: "true"
-          SHOW_LANGUAGE_PER_REPO: "true"
-          SHOW_LOC_CHART: "false"
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          THEME: github_dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
