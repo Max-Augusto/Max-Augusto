@@ -8,10 +8,10 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-augusto-226530255)
-[![Betim Express](https://img.shields.io/badge/Betim_Express-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.betimexpress.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxaugusto6474@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Max-Augusto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-augusto-226530255)
+[![Betim Express](https://img.shields.io/badge/Betim_Express-00C7B7?style=flat-square&logo=fastapi&logoColor=white)](https://www.betimexpress.com.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maxaugusto6474@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Max-Augusto)
 
 <br>
 
@@ -25,11 +25,11 @@
 
 <p>👋 &nbsp;Hi! I'm <strong>Max Augusto</strong>, an IT Support & Infrastructure Analyst and Backend Developer based in Betim, MG, Brazil[cite: 1].</p>
 
-<p>⚡ &nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend architectures</strong>[cite: 1].</p>
+<p>⚡ &nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend systems</strong>[cite: 1].</p>
 
-<p>🚀 &nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics management SaaS running live with Python, Django, PostgreSQL, and automated CI/CD[cite: 1].</p>
+<p>🚀 &nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics management SaaS running live with Python, Django, PostgreSQL, CI/CD, and Mercado Pago recurring payments[cite: 1].</p>
 
-<p>🏢 &nbsp;Currently working at <strong>Positivo S+</strong> delivering critical IT infrastructure support for aviation operations, with previous experience supporting distributed municipal environments[cite: 1].</p>
+<p>🏢 &nbsp;Currently working at <strong>Positivo S+</strong> delivering critical IT infrastructure support for aviation operations, with prior experience supporting distributed municipal environments[cite: 1].</p>
 
 <p>🎓 &nbsp;Undergraduate in Information Systems at <strong>PUC Minas</strong> (2024 – 2027)[cite: 1].</p>
 
@@ -41,55 +41,63 @@
 
 ### 💻 &nbsp;Backend & Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![REST APIs](https://img.shields.io/badge/-REST_APIs-05122A?style=flat&logo=postman)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
 
-### 🖧 &nbsp;Infrastructure, Networking & Cloud
+### 🖧 &nbsp;Enterprise Infrastructure & Networking
 
-![LAN Networking](https://img.shields.io/badge/-LAN_Networking-05122A?style=flat&logo=cisco)&nbsp;
-![DNS](https://img.shields.io/badge/-DNS_(SPF%2FDKIM)-05122A?style=flat&logo=cloudflare)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows Server](https://img.shields.io/badge/-Windows_Server-05122A?style=flat&logo=windows)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Railway](https://img.shields.io/badge/-Railway-05122A?style=flat&logo=railway)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![LAN](https://img.shields.io/badge/LAN_Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS_(SPF%2FDKIM)-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL_V4-4682B4?style=flat-square&logo=servicenow&logoColor=white)
 
-### 🗄️ &nbsp;Databases, DevOps & Security
+### 🚀 &nbsp;CI/CD, Cloud & DevOps
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=github-actions)&nbsp;
-![Mercado Pago](https://img.shields.io/badge/-Mercado_Pago-05122A?style=flat&logo=mercadopago)&nbsp;
-![Cybersecurity](https://img.shields.io/badge/-Cisco_Cybersecurity-05122A?style=flat&logo=cisco)&nbsp;
-![ITIL](https://img.shields.io/badge/-ITIL_V4-05122A?style=flat&logo=servicenow)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🗄️ &nbsp;Databases & Integrations
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago_API-009EE3?style=flat-square&logo=mercadopago&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend_Email-000000?style=flat-square&logo=resend&logoColor=white)
+
+### 🔒 &nbsp;Security & Governance
+
+![Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Identity](https://img.shields.io/badge/Identity_&_Access-Auth0%20%7C%20Clerk-635BFF?style=flat-square&logo=auth0&logoColor=white)
+![Environment](https://img.shields.io/badge/Secrets_Management-.env%20%7C%20Vault-43B02A?style=flat-square&logo=dotenv&logoColor=white)
 
 ---
 
 ## 🌟 &nbsp;Featured Production Projects & Architecture
 
-### 🚚 [Betim Express](https://www.betimexpress.com.br)
-> Production SaaS platform for freight and logistics operations management[cite: 1].
-- **Features**: Real-time net profit and driver commission computation engine, transparent checkout with Mercado Pago webhooks, and SPF/DKIM DNS deliverability[cite: 1].
-- **Tech Stack**: Python, Django, PostgreSQL, Railway CI/CD, Mercado Pago API[cite: 1].
-- [View GitHub Repo →](https://github.com/Max-Augusto/Logistica-Caminhao)[cite: 1]
-
-### 🌿 ONG Conecta Platform
-> Sustainable collaborative platform for community and environmental initiatives.
-- **Features**: REST API architecture, database migrations, and containerized runtime.
-- **Tech Stack**: .NET 10 Web API, React, TypeScript, PostgreSQL, Docker Compose.
-
-### ⚡ Dynamic QR Code Redirection Engine
-> High-performance URL routing and QR generation microservice.
-- **Tech Stack**: Python, FastAPI, Pillow, Docker.
+* 🚚 **[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))[cite: 1]
+  * Full-featured logistics management SaaS in active production[cite: 1].
+  * Real-time net profit and driver commission computation engine[cite: 1].
+  * Transparent checkout and recurring subscription webhooks via Mercado Pago[cite: 1].
+  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration)[cite: 1].
+* 🌿 **ONG Conecta Platform**
+  * Sustainable collaborative platform built with .NET 10 Web API, React, TypeScript, PostgreSQL, and Docker Compose.
+* ⚡ **Dynamic QR Code Microservice**
+  * High-performance URL routing, QR generation, and redirection engine built with Python and FastAPI.
+* 💳 **Bank Statement Converter SaaS**
+  * Automated financial transaction parser using OpenAI API, PostgreSQL, Clerk authentication, and Stripe monetization.
 
 ---
 
-## 🐍 &nbsp;Activity & Metrics
+## 🐍 &nbsp;Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" />
@@ -101,26 +109,11 @@
 
 ---
 
-## 📕 &nbsp;Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Max-Augusto/Logistica-Caminhao">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Max-Augusto&repo=Logistica-Caminhao&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Logistica Caminhao Pin" />
-  </a>
-  <a href="https://github.com/Max-Augusto/Max-Augusto">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Max-Augusto&repo=Max-Augusto&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Max Augusto Pin" />
-  </a>
-</div>
-
-<br>
-
----
-
 ## 🤝 &nbsp;Let's Connect!
 
-- 💬 Discussing backend systems, Python/Django, .NET Web APIs, and database performance.
-- 🖧 Enterprise LAN networking, infrastructure operations, and Linux system administration[cite: 1].
-- 🚀 Cloud deployments, containerization, and workflow automation.
+- 💬 Discussing backend architecture, Python/Django, .NET Web APIs, and database performance.
+- 🖧 Enterprise LAN networking, infrastructure operations, and Linux administration[cite: 1].
+- 🚀 Cloud deployment, Dockerization, and automated workflows.
 
 <br>
 
