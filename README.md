@@ -99,13 +99,14 @@
 
 ## 📈 &nbsp;GitHub Statistics
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Max Augusto GitHub Stats" />
-  &nbsp;
-  <img height="195" src="https://streak-stats.demolab.com?user=Max-Augusto&theme=tokyonight" alt="Max Augusto GitHub Streak" />
-  <br><br>
-  <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="48.5%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Max Augusto GitHub Stats" />
+  <img width="48.5%" src="https://streak-stats.demolab.com?user=Max-Augusto&theme=tokyonight" alt="Max Augusto GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="52%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile" alt="Top Languages" />
+</p>
 
 ---
 
