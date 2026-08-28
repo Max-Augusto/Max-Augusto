@@ -68,15 +68,15 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🐍 Activity
 
-### 📊 GitHub Activity & Metrics
+![Contribution Snake (Dark)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake (Light)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Augusto&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Max Augusto GitHub Streak" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<br>
+---
 
 <div align="center">
 
