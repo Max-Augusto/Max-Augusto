@@ -99,12 +99,21 @@
 
 ## 📈 &nbsp;GitHub Statistics
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Max Augusto GitHub Stats" />
-  <img width="44.2%" src="https://streak-stats.demolab.com?user=Max-Augusto&theme=tokyonight" alt="Max Augusto GitHub Streak" />
-  <br><br>
-  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile" alt="Top Languages" />
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Max-Augusto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" width="100%" alt="Max Augusto GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=Max-Augusto&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="Max Augusto GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile&hide_border=true&bg_color=0D1117" width="55%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
