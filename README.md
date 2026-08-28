@@ -83,30 +83,11 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 
 ### 🐍 Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" />
-  <img src="https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake Light" />
-</div>
+![Contribution Snake (Dark)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake (Light)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Contributions-Year_2026-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend_&_Infrastructure-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=flat-square" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="48%" />
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages by Repo" width="48%" />
-  <br>
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
-  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="48%" />
-</div>
-
-<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
