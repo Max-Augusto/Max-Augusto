@@ -1,168 +1,115 @@
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/max-augusto-226530255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.betimexpress.com.br">
+    <img src="https://img.shields.io/badge/Betim_Express-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+  <a href="mailto:maxaugusto6474@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Max-Augusto">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-# Max Augusto
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Max-Augusto&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
-**IT Support & Infrastructure · Backend Developer · Systems Architecture**
+<br />
 
-*Bridging enterprise infrastructure, N2 operations, and scalable software architecture.*
+## 👨🏻‍💻 &nbsp;About Me
 
-<br>
+<p>👋 &nbsp;Hi! I'm <strong>Max Augusto</strong>, an IT Support & Infrastructure Analyst and Backend Developer based in Betim, MG, Brazil[cite: 1].</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-augusto-226530255)
-[![Betim Express](https://img.shields.io/badge/Betim_Express-00C7B7?style=flat-square&logo=fastapi&logoColor=white)](https://www.betimexpress.com.br)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maxaugusto6474@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Max-Augusto)
+<p>⚡ &nbsp;I bridge the gap between <strong>enterprise IT operations (N2/LAN networks)</strong> and <strong>production-ready backend systems</strong>[cite: 1].</p>
 
-</div>
+<p>🚀 &nbsp;Creator and maintainer of <strong><a href="https://www.betimexpress.com.br">Betim Express</a></strong>, a logistics SaaS running live with Python, Django, PostgreSQL, CI/CD, and Mercado Pago recurring payments[cite: 1].</p>
 
-<br>
+<p>🏢 &nbsp;Currently working at <strong>Positivo S+</strong> delivering critical IT infrastructure support for aviation operations, with prior experience supporting distributed municipal environments[cite: 1].</p>
 
-Information Systems undergraduate at PUC Minas and IT Analyst experienced in enterprise support (N2), critical airport operations, and LAN networking[cite: 1]. In parallel with enterprise infrastructure, I design and maintain software products end-to-end, including architecting and deploying [Betim Express](https://www.betimexpress.com.br) — a live production SaaS for logistics management built with Python, Django, PostgreSQL, and automated CI/CD[cite: 1].
+<p>🎓 &nbsp;Undergraduate in Information Systems at <strong>PUC Minas</strong> (2024 – 2027)[cite: 1].</p>
 
-<br>
+<br />
 
----
+## 🛠 &nbsp;Tech Stack
 
-### 💻 Backend & Languages
+### 💻 &nbsp;Languages & Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![REST APIs](https://img.shields.io/badge/-REST_APIs-05122A?style=flat&logo=postman)&nbsp;
 
-### 🖧 Enterprise Infrastructure & Networking
+### 🖧 &nbsp;Infrastructure, Networking & Cloud
 
-![LAN](https://img.shields.io/badge/LAN_Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS_(SPF%2FDKIM)-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL_V4-4682B4?style=flat-square&logo=servicenow&logoColor=white)
+![LAN Networking](https://img.shields.io/badge/-LAN_Networking-05122A?style=flat&logo=cisco)&nbsp;
+![DNS / SPF / DKIM](https://img.shields.io/badge/-DNS_(SPF%2FDKIM)-05122A?style=flat&logo=cloudflare)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows Server](https://img.shields.io/badge/-Windows_Server-05122A?style=flat&logo=windows)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Railway](https://img.shields.io/badge/-Railway-05122A?style=flat&logo=railway)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
-### 🚀 CI/CD, Cloud & DevOps
+### 🗄️ &nbsp;Databases & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=github-actions)&nbsp;
+![ITIL](https://img.shields.io/badge/-ITIL_V4-05122A?style=flat&logo=servicenow)&nbsp;
+![Mercado Pago](https://img.shields.io/badge/-Mercado_Pago-05122A?style=flat&logo=mercadopago)&nbsp;
 
-### 🗄️ Databases & Integrations
+<hr />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Mercado Pago](https://img.shields.io/badge/Mercado_Pago_API-009EE3?style=flat-square&logo=mercadopago&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend_Email-000000?style=flat-square&logo=resend&logoColor=white)
+## 🌟 &nbsp;Featured Projects
 
-### 🔒 Security & Governance
+### 🚚 [Betim Express](https://www.betimexpress.com.br)
+> Production SaaS platform for freight and logistics operations management[cite: 1].
+- **Features**: Real-time net profit and commission calculation, transparent checkout with Mercado Pago webhooks, automated CI/CD on Railway, and SPF/DKIM DNS email deliverability[cite: 1].
+- **Tech**: Python, Django, PostgreSQL, Railway, Mercado Pago API[cite: 1].
+- [View GitHub Repo →](https://github.com/Max-Augusto/Logistica-Caminhao)[cite: 1]
 
-![Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Identity](https://img.shields.io/badge/Identity_&_Access-Auth0%20%7C%20Clerk-635BFF?style=flat-square&logo=auth0&logoColor=white)
-![Environment](https://img.shields.io/badge/Secrets_Management-.env%20%7C%20Vault-43B02A?style=flat-square&logo=dotenv&logoColor=white)
+### 🌿 ONG Conecta
+> Collaborative sustainability and social impact platform.
+- **Features**: Scalable backend API, database migrations, and containerized runtime.
+- **Tech**: .NET 10 Web API, React, TypeScript, PostgreSQL, Docker Compose.
 
----
+<hr />
 
-### 🚀 Featured Production Projects & Architecture
+## 📈 &nbsp;GitHub Statistics
 
-* 🚚 **[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))[cite: 1]
-  * Full-featured logistics management SaaS in active production[cite: 1].
-  * Real-time net profit and driver commission computation engine[cite: 1].
-  * Transparent checkout and recurring subscription webhooks via Mercado Pago[cite: 1].
-  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration)[cite: 1].
-* 🌿 **ONG Conecta Platform**
-  * Sustainable collaborative platform built with .NET 10 Web API, React, TypeScript, PostgreSQL, and Docker Compose.
-* ⚡ **Dynamic QR Code Microservice**
-  * High-performance URL routing, QR generation, and redirection engine built with Python and FastAPI.
-* 💳 **Bank Statement Converter SaaS**
-  * Automated financial transaction parser using OpenAI API, PostgreSQL, Clerk authentication, and Stripe monetization.
+<br/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Max-Augusto&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Augusto&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
----
+<p align="center">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+</p>
 
-### 🐍 Activity
+<hr />
 
-![Contribution Snake (Dark)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution Snake (Light)](https://raw.githubusercontent.com/Max-Augusto/Max-Augusto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## 📕 &nbsp;Pinned Repositories
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+<p align="center">
+  <a href="https://github.com/Max-Augusto/Logistica-Caminhao">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Augusto&repo=Logistica-Caminhao&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Max-Augusto/Max-Augusto">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Augusto&repo=Max-Augusto&theme=tokyonight" />
+  </a>
+</p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.01%20thousand%20lines%20of%20code-blue?style=flat)
+<hr />
 
-**🐱 My GitHub Data** 
+## 🤝 &nbsp;Let's Connect!
 
-> 📦 3.9 kB Used in GitHub's Storage 
- > 
-> 🏆 24 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
+- 💬 Discussing backend architecture, Python/Django, .NET, and relational database design.
+- 🖧 Enterprise LAN networking, infrastructure operations, and Linux administration[cite: 1].
+- 🚀 Cloud deployment, Dockerization, and automated workflows.
 
-```text
-🌞 Morning                66 commits          █████████░░░░░░░░░░░░░░░░   37.93 % 
-🌆 Daytime                56 commits          ████████░░░░░░░░░░░░░░░░░   32.18 % 
-🌃 Evening                52 commits          ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Wednesday                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Friday                   73 commits          ██████████░░░░░░░░░░░░░░░   41.95 % 
-Saturday                 45 commits          ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-Sunday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
-
-
- Last Updated on 28/08/2026 13:22:26 UTC
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-<sub>Max Augusto · Betim, MG, Brazil</sub>
-
-</div>
+<p>📫 Reach out: <a href="mailto:maxaugusto6474@gmail.com">maxaugusto6474@gmail.com</a> | <a href="https://www.linkedin.com/in/max-augusto-226530255">LinkedIn Profile</a></p>[cite: 1]
