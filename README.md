@@ -79,6 +79,11 @@ Information Systems undergraduate at PUC Minas and IT Analyst experienced in ent
 ---
 
 <div align="center">
+  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github.com/Max-Augusto/Max-Augusto/raw/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages" />
+</div>
+
+<div align="center">
 
 <sub>Max Augusto · Betim, MG, Brazil</sub>
 
