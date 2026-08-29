@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-augusto-226530255)
 [![Betim Express](https://img.shields.io/badge/Betim_Express-00C7B7?style=flat-square&logo=fastapi&logoColor=white)](https://www.betimexpress.com.br)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maxaugusto6474@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maxaugusto6474@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Max-Augusto)
 
 <br>
@@ -199,7 +199,7 @@ CSS                      1 repo              ██-----------------------   07.
 
 <p align="center">
   <strong>Reach out:</strong> 
-  <a href="mailto:maxaugusto6474@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maxaugusto6474@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> 
   <a href="https://www.linkedin.com/in/max-augusto-226530255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
