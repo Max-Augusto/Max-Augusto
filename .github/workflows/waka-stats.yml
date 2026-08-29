@@ -40,4 +40,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "chore: update waka stats with custom chart symbols" || true
-          git push --force-with-lease
+          git fetch origin
+          git merge --no-edit origin/main
+          git push
