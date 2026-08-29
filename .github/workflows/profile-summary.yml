@@ -35,6 +35,34 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
+      - name: Remove "Most Used Languages" card
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+          
+          # Remove the card file (usually 0-profile-details.svg or 1-repos-per-language.svg contains the most used languages)
+          card_path = "profile-summary-card-output/tokyonight/0-profile-details.svg"
+          
+          # Update README to remove the most-used-languages reference
+          readme_path = "README.md"
+          if os.path.exists(readme_path):
+              with open(readme_path, 'r', encoding='utf-8') as f:
+                  content = f.read()
+              
+              # Remove any lines containing "Most Used Languages" or profile-summary images that show it
+              content = re.sub(
+                  r'.*(?:Most Used Languages|profile-summary-card).*\n',
+                  '',
+                  content,
+                  flags=re.IGNORECASE
+              )
+              
+              with open(readme_path, 'w', encoding='utf-8') as f:
+                  f.write(content)
+              print("✅ Removed Most Used Languages references from README")
+          EOF
+      
       - name: Push changes with retry
         run: |
           git fetch origin main
