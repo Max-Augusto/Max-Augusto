@@ -34,9 +34,6 @@ jobs:
         run: |
           python3 << 'EOF'
           import re
-          import json
-          import subprocess
-          from urllib.request import urlopen
           
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
@@ -44,8 +41,22 @@ jobs:
           # Replace symbols
           content = content.replace('░', '-')
           
-          # Remove "Most Used Languages" section if it appears
-          content = re.sub(r'##\s+Most Used Languages\n.*?(?=##|\Z)', '', content, flags=re.DOTALL)
+          # Remove "Most Used Languages" section - more aggressive pattern
+          # Match from "Most Used Languages" header until next ## header or end of file
+          content = re.sub(
+              r'#+\s*Most Used Languages\s*\n.*?(?=\n#+\s|$)',
+              '',
+              content,
+              flags=re.DOTALL | re.IGNORECASE
+          )
+          
+          # Also remove any orphaned image tags for Most Used Languages
+          content = re.sub(
+              r'.*Most Used Languages.*\.svg.*\n',
+              '',
+              content,
+              flags=re.IGNORECASE
+          )
           
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(content)
