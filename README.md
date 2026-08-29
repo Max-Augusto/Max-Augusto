@@ -82,17 +82,23 @@
 
 ## &nbsp;Featured Production Projects & Architecture
 
-* &nbsp;**[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))
-  * Full-featured logistics management SaaS in active production.
-  * Real-time net profit and driver commission computation engine.
-  * Transparent checkout and recurring subscription webhooks via Mercado Pago.
-  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration).
-* &nbsp;**[dynamic-programming-coin-change](https://github.com/Max-Augusto/dynamic-programming-coin-change)**
-  * Solution to the classic Minimum Change problem using Dynamic Programming. Optimized Python implementation to overcome greedy algorithm failures.
-* &nbsp;**[Compressor_imagens](https://github.com/Max-Augusto/Compressor_imagens)**
-  * Python application with graphical interface for compressing images, controlling maximum file size and choosing output format JPEG, PNG or WebP.
-* &nbsp;**[dynamic-qr-redirect](https://github.com/Max-Augusto/dynamic-qr-redirect)**
-  * Platform for creating and managing dynamic QR codes with instant URL redirection without the need to reprint physical materials.
+*  **[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))
+  * Full-featured logistics management SaaS in active production.
+  * Real-time net profit and driver commission computation engine.
+  * Transparent checkout and recurring subscription webhooks via Mercado Pago.
+  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration).
+
+*  **[dynamic-programming-coin-change](https://github.com/Max-Augusto/dynamic-programming-coin-change)**
+  * Solution to the classic Minimum Change problem using Dynamic Programming.
+  * Optimized Python implementation to overcome greedy algorithm failures.
+
+*  **[Compressor_imagens](https://github.com/Max-Augusto/Compressor_imagens)**
+  * Python application with graphical interface for compressing images.
+  * Controls maximum file size and supports output formats in JPEG, PNG, or WebP.
+
+*  **[dynamic-qr-redirect](https://github.com/Max-Augusto/dynamic-qr-redirect)**
+  * Platform for creating and managing dynamic QR codes.
+  * Provides instant URL redirection without the need to reprint physical materials.
 
 ---
 
