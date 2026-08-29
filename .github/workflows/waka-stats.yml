@@ -34,12 +34,9 @@ jobs:
       - name: Replace chart symbols (░ → ─)
         run: sed -i 's/░/─/g' README.md
       
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "chore: update waka stats with custom chart symbols" || true
-          git fetch origin
-          git merge --no-edit origin/main
-          git push
+          git diff --cached --exit-code || (git commit -m "chore: update waka stats" && git push)
