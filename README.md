@@ -92,6 +92,7 @@
 * &nbsp;**[Compressor_imagens](https://github.com/Max-Augusto/Compressor_imagens)**
   * Python application with graphical interface for compressing images, controlling maximum file size and choosing output format JPEG, PNG or WebP.
 * &nbsp;**[dynamic-qr-redirect](https://github.com/Max-Augusto/dynamic-qr-redirect)**
+  * Platform for creating and managing dynamic QR codes with instant URL redirection without the need to reprint physical materials.
 
 ---
 
