@@ -144,21 +144,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                91 commits          ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌆 Daytime                80 commits          █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌃 Evening                63 commits          ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                91 commits          ██████████---------------   38.89 % 
+🌆 Daytime                80 commits          █████████----------------   34.19 % 
+🌃 Evening                63 commits          ███████------------------   26.92 % 
+🌙 Night                  0 commits           -------------------------   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Wednesday                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Friday                   133 commits         ██████████████░░░░░░░░░░░   56.84 % 
-Saturday                 45 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Sunday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Monday                   0 commits           -------------------------   00.00 % 
+Tuesday                  1 commits           -------------------------   00.43 % 
+Wednesday                29 commits          ███----------------------   12.39 % 
+Thursday                 12 commits          █------------------------   05.13 % 
+Friday                   133 commits         ██████████████-----------   56.84 % 
+Saturday                 45 commits          █████--------------------   19.23 % 
+Sunday                   14 commits          █------------------------   05.98 % 
 ```
 
 
@@ -184,11 +184,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-HTML                     4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   5 repos             ██████████---------------   38.46 % 
+HTML                     4 repos             ████████-----------------   30.77 % 
+TypeScript               2 repos             ████---------------------   15.38 % 
+C#                       1 repo              ██-----------------------   07.69 % 
+CSS                      1 repo              ██-----------------------   07.69 % 
 ```
 
 
