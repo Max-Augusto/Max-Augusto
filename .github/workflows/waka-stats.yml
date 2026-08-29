@@ -31,7 +31,14 @@ jobs:
           LOCALE: en
       
       - name: Replace chart symbols (░ → -)
-        run: sed -i 's/░/-/g' README.md
+        run: |
+          python3 << 'EOF'
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          content = content.replace('░', '-')
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          EOF
       
       - name: Commit and push changes
         run: |
