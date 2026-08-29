@@ -40,4 +40,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "chore: update waka stats with custom chart symbols" || true
+          git pull --rebase
           git push
