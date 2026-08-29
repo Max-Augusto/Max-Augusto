@@ -39,4 +39,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --cached --exit-code || (git commit -m "chore: update waka stats" && git push)
+          git diff --cached --exit-code || (git commit -m "chore: update waka stats" && git push --force)
