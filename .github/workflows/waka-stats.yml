@@ -34,15 +34,88 @@ jobs:
         run: |
           python3 << 'EOF'
           import re
+          import json
+          import subprocess
+          from urllib.request import urlopen
+          
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
+          
           # Replace symbols
           content = content.replace('░', '-')
+          
           # Remove "Most Used Languages" section if it appears
           content = re.sub(r'##\s+Most Used Languages\n.*?(?=##|\Z)', '', content, flags=re.DOTALL)
+          
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(content)
           EOF
+      
+      - name: Generate All-Time Language Stats
+        run: |
+          python3 << 'EOF'
+          import os
+          import json
+          import re
+          from urllib.request import urlopen, Request
+          from collections import defaultdict
+          
+          github_token = os.environ.get('GH_TOKEN', '')
+          username = os.environ.get('GITHUB_REPOSITORY_OWNER', 'Max-Augusto')
+          
+          headers = {'Authorization': f'token {github_token}'} if github_token else {}
+          
+          # Get all repos
+          url = f'https://api.github.com/users/{username}/repos?per_page=100'
+          req = Request(url, headers=headers)
+          repos = json.loads(urlopen(req).read())
+          
+          # Calculate language stats
+          language_bytes = defaultdict(int)
+          total_bytes = 0
+          
+          for repo in repos:
+              if repo['fork']:
+                  continue
+              
+              langs_url = repo['languages_url']
+              try:
+                  req = Request(langs_url, headers=headers)
+                  langs = json.loads(urlopen(req).read())
+                  for lang, bytes_count in langs.items():
+                      language_bytes[lang] += bytes_count
+                      total_bytes += bytes_count
+              except:
+                  pass
+          
+          # Sort by bytes
+          sorted_langs = sorted(language_bytes.items(), key=lambda x: x[1], reverse=True)
+          
+          # Build stats table
+          stats = '**All-Time Language Stats (All Repositories)**\n\n```text\n'
+          for lang, bytes_count in sorted_langs[:8]:
+              percentage = (bytes_count / total_bytes * 100) if total_bytes > 0 else 0
+              bar_length = int(percentage / 2)
+              bar = '█' * bar_length + '-' * (50 - bar_length)
+              stats += f'{lang:<20} {bar:<50} {percentage:>6.2f}%\n'
+          stats += '```\n'
+          
+          # Update README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # Add stats before "I Mostly Code in Python" section
+          marker = "**I Mostly Code in Python**"
+          if marker in content:
+              content = content.replace(marker, stats + marker)
+          
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          
+          print("✅ All-time language stats generated!")
+          EOF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Commit and push changes
         run: |
