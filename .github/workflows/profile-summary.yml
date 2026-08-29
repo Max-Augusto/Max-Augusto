@@ -25,6 +25,12 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
       
+      - name: Clear old profile cards cache
+        run: |
+          rm -rf profile-summary-card-output || true
+          git add . || true
+          git commit -m "chore: clear profile cards cache" || true
+      
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         name: Generate Summary Cards
         with:
