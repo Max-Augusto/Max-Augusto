@@ -198,7 +198,7 @@ CSS                      1 repo              ██-----------------------   07.
 <br>
 
 <p align="center">
-  <strong>Reach out:</strong> <a href="mailto:maxaugusto6474@gmail.com">maxaugusto6474@gmail.com</a> | <a href="https://www.linkedin.com/in/max-augusto-226530255">LinkedIn Profile</a>
+  <strong>Reach out:</strong> ✉️ <a href="mailto:maxaugusto6474@gmail.com">maxaugusto6474@gmail.com</a> | 🔗 <a href="https://www.linkedin.com/in/max-augusto-226530255">LinkedIn Profile</a>
 </p>
 
 <div align="center">
