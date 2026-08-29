@@ -32,4 +32,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff --cached --exit-code || (git commit -m "chore: update profile cards" && git push --force)
+          git diff --cached --exit-code || (git commit -m "chore: update profile cards" && git push -u origin main || git push --force -u origin main)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
