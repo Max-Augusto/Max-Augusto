@@ -198,7 +198,9 @@ CSS                      1 repo              ██-----------------------   07.
 <br>
 
 <p align="center">
-  <strong>Reach out:</strong> [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maxaugusto6474@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-augusto-226530255)
+  <strong>Reach out:</strong> 
+  <a href="mailto:maxaugusto6474@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> 
+  <a href="https://www.linkedin.com/in/max-augusto-226530255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <div align="center">
