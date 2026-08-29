@@ -80,25 +80,12 @@
 
 ---
 
-## &nbsp;Featured Production Projects & Architecture
+## Featured Projects & Architecture
 
-*  **[Betim Express](https://www.betimexpress.com.br)** ([GitHub Repo](https://github.com/Max-Augusto/Logistica-Caminhao))
-  * Full-featured logistics management SaaS in active production.
-  * Real-time net profit and driver commission computation engine.
-  * Transparent checkout and recurring subscription webhooks via Mercado Pago.
-  * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration).
-
-*  **[dynamic-programming-coin-change](https://github.com/Max-Augusto/dynamic-programming-coin-change)**
-  * Solution to the classic Minimum Change problem using Dynamic Programming.
-  * Optimized Python implementation to overcome greedy algorithm failures.
-
-*  **[Compressor_imagens](https://github.com/Max-Augusto/Compressor_imagens)**
-  * Python application with graphical interface for compressing images.
-  * Controls maximum file size and supports output formats in JPEG, PNG, or WebP.
-
-*  **[dynamic-qr-redirect](https://github.com/Max-Augusto/dynamic-qr-redirect)**
-  * Platform for creating and managing dynamic QR codes.
-  * Provides instant URL redirection without the need to reprint physical materials.
+* **[Betim Express](https://www.betimexpress.com.br)** ([Repo](https://github.com/Max-Augusto/Logistica-Caminhao)) — Production logistics SaaS with real-time margins, Mercado Pago webhooks, and Railway CI/CD.
+* **[dynamic-qr-redirect](https://github.com/Max-Augusto/dynamic-qr-redirect)** — Dynamic QR code engine enabling instant URL redirection without reprinting physical materials.
+* **[Compressor_imagens](https://github.com/Max-Augusto/Compressor_imagens)** — Desktop GUI tool for customizable image compression supporting JPEG, PNG, and WebP.
+* **[dynamic-programming-coin-change](https://github.com/Max-Augusto/dynamic-programming-coin-change)** — Dynamic programming implementation solving the classic Minimum Change optimization problem.
 
 ---
 
