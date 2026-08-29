@@ -87,12 +87,11 @@
   * Real-time net profit and driver commission computation engine.
   * Transparent checkout and recurring subscription webhooks via Mercado Pago.
   * Production cloud deployment on Railway with managed PostgreSQL, CI/CD, and transactional email deliverability (Resend/Anymail + SPF/DKIM DNS configuration).
-* &nbsp;**ONG Conecta Platform**
-  * Sustainable collaborative platform built with .NET 10 Web API, React, TypeScript, PostgreSQL, and Docker Compose.
-* &nbsp;**Dynamic QR Code Microservice**
-  * High-performance URL routing, QR generation, and redirection engine built with Python and FastAPI.
-* &nbsp;**Bank Statement Converter SaaS**
-  * Automated financial transaction parser using OpenAI API, PostgreSQL, Clerk authentication, and Stripe monetization.
+* &nbsp;**[dynamic-programming-coin-change](https://github.com/Max-Augusto/dynamic-programming-coin-change)**
+  * Solution to the classic Minimum Change problem using Dynamic Programming. Optimized Python implementation to overcome greedy algorithm failures.
+* &nbsp;**[Compressor_imagens](https://github.com/Max-Augusto/Compressor_imagens)**
+  * Python application with graphical interface for compressing images, controlling maximum file size and choosing output format JPEG, PNG or WebP.
+* &nbsp;**[dynamic-qr-redirect](https://github.com/Max-Augusto/dynamic-qr-redirect)**
 
 ---
 
@@ -112,7 +111,7 @@
 <hr>
 
 <div align="center">
-	<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+	<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Max-Augusto&layout=compact&theme=tokyonight&langs_count=6&hide=Procfile,HTML,CSS&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
